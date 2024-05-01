@@ -3,10 +3,6 @@ This is a sample dataset that can be used for digital forensics file recovery re
 
 Feel free to use this dataset. All files were created manually, collected from open-source digital forensic repositories, or downloaded from sample file generators.
 
-File Name: Sample-Forensic-Dataset.zip
-File Size: 73.7MB
-SHA256: 51C37DA8E74BA40EB47793A8C860B1F705A66202CBD66D42B061854F0552B108
-
 The files are spread across the following types:
 - Archive
   - 7Z

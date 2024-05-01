@@ -1,5 +1,5 @@
 # DigitalForensicDataset
-This is a sample dataset that can be used for digital forensics file recovery research. It includes a total of 96 files, which include 24 different file types with 4 files of each type.
+This is a sample dataset that can be used for digital forensics file recovery research. This includes a total of 96 files evenly distributed across 24 different file types (4 files of each type).
 
 Feel free to use this dataset. All files were created manually, collected from open-source digital forensic repositories, or downloaded from sample file generators.
 
